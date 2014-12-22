@@ -6,3 +6,4 @@ we have played dota for many years.
 just write something freely.
 create a branch is quick.
 create a branch is very quick and simple.
+分支管理策略。
