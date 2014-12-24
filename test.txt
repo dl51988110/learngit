@@ -2,3 +2,4 @@ just for test.
 测速一下。
 一起去电影院看电影吗？
 git config 配置。
+刚才怎么没搞好啊。
